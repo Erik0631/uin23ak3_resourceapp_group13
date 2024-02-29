@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import ResourceCategory from './component/ResourceCategory';
+import ResourceArchive from './component/Ressursarkivet';
 
 const resources = [
   {
