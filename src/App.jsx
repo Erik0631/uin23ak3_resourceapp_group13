@@ -1,4 +1,3 @@
-// App.jsx
 import React from 'react';
 import './App.css';
 import ResourceCategory from './component/ResourceCategory';
@@ -44,7 +43,7 @@ const resources = [
       },
     ]
   },
-  // Legg til flere ressurser her...
+
 ];
 
 function App() {

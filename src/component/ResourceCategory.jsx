@@ -1,6 +1,7 @@
 // ResourceCategory.jsx
 import React from 'react';
 
+
 const ResourceCategory = ({ category, text, sources }) => (
   <div className="resource-category">
     <h2>{category}</h2>
